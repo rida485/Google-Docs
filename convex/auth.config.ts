@@ -2,7 +2,7 @@
 export default {
     providers: [
         {
-            domain: "https://handy-manatee-67.clerk.accounts.dev",
+            domain: "https://quiet-prawn-20.clerk.accounts.dev",
             applicationID: "convex",
         }
     ]
